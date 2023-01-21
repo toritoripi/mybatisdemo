@@ -13,5 +13,7 @@ public class Name {
         return this.id;
     }
 
-    public String getName() {return this.name;}
+    public String getName() {
+        return this.name;
+    }
 }
