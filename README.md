@@ -25,3 +25,5 @@ application propertiesの```spring.datasource.url=jdbc:mysql://localhost:3306/db
 
 # その他自分用メモ
 WHERE文句/「throw」と「throws」の違い/```prune```コマンド
+
+間違えてマージしてしまった場合、元に戻すとしてもマージ前のPRの状態に戻るわけではなく新しいブランチが作られる。
